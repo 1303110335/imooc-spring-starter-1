@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "restart.include.mapper",
+    "type": "java.lang.String",
+    "description": "A description for 'restart.include.mapper'"
+  },
+  {
+    "name": "restart.include.pagehelper",
+    "type": "java.lang.String",
+    "description": "A description for 'restart.include.pagehelper'"
+  },
+  {
+    "name": "server.session-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'server.session-timeout'"
+  },
+  {
+    "name": "server.tomcat.uri-encode",
+    "type": "java.lang.String",
+    "description": "A description for 'server.tomcat.uri-encode'"
+  },
+  {
+    "name": "spring.datasource.druid.initial-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.druid.initial-size'"
+  }
+]}
