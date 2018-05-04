@@ -25,4 +25,5 @@ public class HelloController {
 		BeanUtils.copyProperties(resource, bean);
 		return IMoocJSONResult.ok(bean);
 	}
+	
 }
